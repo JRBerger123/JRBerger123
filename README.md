@@ -1,7 +1,7 @@
 # Hi there, I'm Brandon Berger!
 
 ## About Me
-I'm a senior Computer Science student passionate about low-level programming, algorithms, and solving complex problems. I enjoy exploring **networking, system administration, and mathematical conjectures**, especially my recent work on the **Collatz conjecture**.
+I'm an Information Technology Specialist passionate about programming, algorithms, and solving complex problems. I enjoy exploring **networking, system administration, and mathematical conjectures**, especially my recent work on the **Collatz conjecture**. At the moment, I'm working on my Master's in Cybersecurity and my CCNP with ENARSI.
 
 ## 🛠 Tech Stack
 - **Languages:** Java, Python, C++, C#, JavaScript
@@ -22,4 +22,5 @@ I'm a senior Computer Science student passionate about low-level programming, al
 
 ## 📫 Contact Me
 - **GitHub:** [@JRBerger123](https://github.com/JRBerger123)
+
 - **LinkedIn:** [linkedin.com/in/brandon-berger-ne](#)
